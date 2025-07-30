@@ -4,16 +4,11 @@
   A powerful and interactive tool to analyze WhatsApp group or individual chat exports using Python and Streamlit.
 </p>
 
-<p align="center">
-  <a href="https://karanbisht45-whatsapp-chat-analyzer.streamlit.app/"><img src="https://img.shields.io/badge/Streamlit-Live App-green?style=flat-square&logo=streamlit"></a>
-  <a href="https://github.com/karanbisht45/whatsapp-chat-analyzer/stargazers"><img src="https://img.shields.io/github/stars/karanbisht45/whatsapp-chat-analyzer?style=flat-square"></a>
-</p>
-
 ---
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app on Streamlit](https://karanbisht45-whatsapp-chat-analyzer.streamlit.app/)
+👉 [Click here to try the app on Streamlit](https://wapp-analyzer.streamlit.app/)
 
 ---
 
