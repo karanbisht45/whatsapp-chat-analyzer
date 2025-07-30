@@ -8,7 +8,7 @@
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app on Streamlit](https://wapp-analyzer.streamlit.app/)
+<a href="https://wapp-analyzer.streamlit.app/">Click here to try the app on Streamlit</a>
 
 ---
 
