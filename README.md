@@ -6,11 +6,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-https://wapp-analyzer.streamlit.app/
----
-
 ## 🔍 Features
 
 - 📄 Upload `.txt` WhatsApp chat file (without media)
